@@ -124,7 +124,7 @@
             $('.close-output').click(function(){
                 $('#commands pre').slideUp();
             });
-            $('[data-toggle="popover"]').popover()
+            $('[data-toggle="popover"]').popover();
         });
 
     </script>

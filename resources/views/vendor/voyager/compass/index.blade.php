@@ -42,7 +42,7 @@
                     <div class="collapse-content collapse in" id="links">
                         <div class="row">
                             <div class="col-md-4">
-                                <a href="https://tu6ge.github.io/voyager-doc-zh-CN/" target="_blank" class="voyager-link" style="background-image:url('{{ voyager_asset('images/compass/documentation.jpg') }}')">
+                                <a href="http://doc.laravel-voyager.cn/" target="_blank" class="voyager-link" style="background-image:url('{{ voyager_asset('images/compass/documentation.jpg') }}')">
                                     <span class="resource_label"><i class="voyager-documentation"></i> <span class="copy">中文文档</span></span>
                                 </a>
                             </div>

@@ -6,6 +6,12 @@
             "description": "voyager chinese-lang hook",
             "version": "v1.0.1",
             "enabled": true
+        },
+        "voyager-excel": {
+            "name": "voyager-excel",
+            "description": "voyager excel export hook",
+            "version": "v0.1.2",
+            "enabled": false
         }
     }
 }

@@ -64,7 +64,7 @@
     "repositories": {
         "hooks": {
             "type": "composer",
-            "url": "https://larapack.io"
+            "url": "http://satisfy.xiaoqiezi.top"
         }
     }
 }
